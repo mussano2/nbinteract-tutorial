@@ -15,3 +15,12 @@ nbinteract tutorial.ipynb
 git add -A
 git commit -m "Publish nb"
 git push origin master
+nbinteract tutorial.ipynb
+git add -A
+git commit -m "Publish nb"
+git push origin master
+git config --global user.email "mussano2@illinois.edu"
+git config --global user.name "mussano2"
+git add - A
+git add -A
+git commit -m "Publish nb"
